@@ -6,8 +6,10 @@ void main(){
     MaterialApp(
       home: Login(),
       theme: ThemeData(
+        
         primaryColor: Colors.white,
         fontFamily: "Montserrat",
+        
       ),
     ),
   );
